@@ -1,0 +1,108 @@
+
+main { width: 1400px;
+       height: 700px;
+       background-color:  hsl(225, 100%, 94%);
+
+            }
+
+  .hphoto {  width: 1400px;
+             height: 400px} 
+    
+    
+.container { width: 330px;
+             height:500px;
+             background-color: white;
+             margin:-300px 100px 0px 500px;
+             border-radius: 3%;
+             position: absolute;
+             font-family: 'Red Hat Display', sans-serif;
+
+
+             
+             
+}
+
+.card { width: 330px;
+        height:200px;
+        border-radius: 3% 3% 0 0;
+
+    }
+
+
+
+h1{ font-size:20px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+    margin-left: -5px;
+
+}
+ p { 
+     margin-left: 15px;
+     text-align: center;
+      margin-right: 15px;  
+       font-weight: 500;
+       color:hsl(224, 23%, 55%);
+    }
+
+    .pricing {width: 270px;
+              height: 40px;
+              background-color:hsl(225, 100%, 98%);
+              display: flex;
+              justify-content: center;
+              text-align: center;
+              margin: 0 30px 0 30px;
+              padding-top: 20px;
+              border-radius: 5px;
+            
+            }
+
+      .plan { margin-top: -10px; 
+              font-size: 14px;
+              font-weight: bold;
+              margin-left:10px;
+            }
+
+    .price { margin-top: 15px;
+             font-weight: 500;
+             margin-left: -78px;
+             color: hsl(224, 23%, 55%);
+             font-size: 14px;}   
+             
+      span { margin-left: 70px; 
+             color:hsl(245, 75%, 52%);
+             font-size: 14px;
+             font-weight: bold;
+             text-decoration:underline;
+    }   
+      
+      .musicicon { margin-top:-5px ;
+                   margin-left: -5px;}
+
+
+      .paymentbutton { width: 260px;
+                 height: 15px;
+                 background-color: hsl(245, 75%, 52%);
+                 color: white;
+                margin-left: 30px;
+                margin-top: 15px;
+                border-radius: 5px;
+                display: flex;
+                justify-content: center;
+                padding-top: 8px;
+                padding-bottom: 10px;
+                font-size: 14px;
+                font-weight: bold;
+                box-shadow: 0px 5px 15px 0px hsl(224, 23%, 55%);
+
+            }       
+            
+     .cancel { display: flex;
+               font-size: 14px;
+               margin-top: 20px;
+               color:  hsl(224, 23%, 55%);
+               justify-content: center;
+               font-weight: bold;
+               
+    }
